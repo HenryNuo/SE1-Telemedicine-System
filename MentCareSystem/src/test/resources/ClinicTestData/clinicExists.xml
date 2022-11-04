@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+    <clinic clinic_id="1" clinic_name="test" clinic_owner="MattL" clinic_info="testInfo"/>
+
+</dataset>

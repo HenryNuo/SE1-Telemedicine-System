@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+
+    <clinic clinic_id="1" clinic_name="test" clinic_owner="test" clinic_info="test"/>
+    <clinic clinic_id="2" clinic_name="test" clinic_owner="test" clinic_info="test"/>
+
+    <medical_owner med_id="1" med_name="test" birthdate="2000-02-02" address ="test" SSN = "100-10-1000" clinic_id ="1" email="test1@gmail.com" pass="65536:3c7e224c719b40e905cb34a4c5516ad5:e0092472df9c310f542606a849d938a4"/>
+    <medical_owner med_id="2" med_name="test" birthdate="2000-02-02" address ="test" SSN = "100-10-1000" clinic_id ="1" email="test2@gmail.com" pass="65536:3c7e224c719b40e905cb34a4c5516ad5:e0092472df9c310f542606a849d938a4"/>
+    <medical_owner med_id="3" med_name="test" birthdate="2000-02-02" address ="test" SSN = "100-10-1000" clinic_id ="2" email="test3@gmail.com" pass="65536:3c7e224c719b40e905cb34a4c5516ad5:e0092472df9c310f542606a849d938a4"/>
+    <medical_owner med_id="4" med_name="test" birthdate="2000-02-02" address ="test" SSN = "100-10-1000" clinic_id ="2" email="test4@gmail.com" pass="65536:3c7e224c719b40e905cb34a4c5516ad5:e0092472df9c310f542606a849d938a4"/>
+
+</dataset>

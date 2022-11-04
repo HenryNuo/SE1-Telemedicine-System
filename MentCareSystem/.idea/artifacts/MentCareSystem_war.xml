@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MentCareSystem:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MentCareSystem</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MentCareSystem-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MentCareSystem:war exploded" />
+    </root>
+  </artifact>
+</component>

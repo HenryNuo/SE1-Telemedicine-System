@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <community community_id="1" community_name="test" owner_name="asdf" community_info="asdf"/>
+    <community community_id="2" community_name="test" owner_name="asdf" community_info="asdf"/>
+
+    <community_owner owner_id="1" community_name="test" owner_name="test"  birthdate="2000-02-02" address ="test" SSN = "100-10-1000" email="test1@gmail.com" community_id="1" pass="65536:3c7e224c719b40e905cb34a4c5516ad5:e0092472df9c310f542606a849d938a4"/>
+    <community_owner owner_id="2" community_name="test" owner_name="test" birthdate="2000-02-02" address ="test" SSN = "100-10-1000" email="test2@gmail.com" community_id="1" pass="65536:3c7e224c719b40e905cb34a4c5516ad5:e0092472df9c310f542606a849d938a4"/>
+    <community_owner owner_id="3" community_name="test" owner_name="test"  birthdate="2000-02-02" address ="test" SSN = "100-10-1000" email="test3@gmail.com" community_id="2" pass="65536:3c7e224c719b40e905cb34a4c5516ad5:e0092472df9c310f542606a849d938a4"/>
+    <community_owner owner_id="4" community_name="test" owner_name="test"  birthdate="2000-02-02" address ="test" SSN = "100-10-1000" email="test4@gmail.com" community_id="2" pass="65536:3c7e224c719b40e905cb34a4c5516ad5:e0092472df9c310f542606a849d938a4"/>
+
+
+
+</dataset>
